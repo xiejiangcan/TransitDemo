@@ -1,0 +1,13 @@
+INPUT(
+./temp\obj\main.o
+./temp\obj\mainwindow.o
+./temp\obj\cmessagetransit.o
+./temp\obj\cmessageaccept.o
+./temp\obj\cmessagesender.o
+./temp\obj\cudpserver.o
+./temp\obj\moc_mainwindow.o
+./temp\obj\moc_cmessagetransit.o
+./temp\obj\moc_cmessageaccept.o
+./temp\obj\moc_cmessagesender.o
+./temp\obj\moc_cudpserver.o
+);
